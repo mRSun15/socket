@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sun/Desktop/study materials2/计网/exp7/client/client.cpp
+stdio.h
+-
+iostream
+-
+unistd.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+semaphore.h
+-
+../packet.h
+/Users/sun/Desktop/study materials2/计网/exp7/packet.h
+
+/Users/sun/Desktop/study materials2/计网/exp7/packet.h
+
